@@ -1,4 +1,4 @@
-# Machine-Translation-with-Keras
+# Machine-Translation-with-Recurrent-Neural-Networks
 
 ## Introduction
 
